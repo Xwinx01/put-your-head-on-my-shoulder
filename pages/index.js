@@ -15,7 +15,7 @@ function index() {
   return (
     <Container maxW="container.md" p={3} m={3}>
       <Box>
-        <Heading textDecoration="underline">About Me</Heading>
+        <Heading textDecoration="underline">About me</Heading>
       </Box>
       <Box
         mt={4}
